@@ -1,0 +1,7 @@
+[DELAY value;0]
+UDÁLOST RAMADÁN[ENTER]
+[ENTER]
+Pravidelnì navštìvuj Historika a zajistit si tak na konci Ramadánu cenné[ENTER]
+pøedmìty za tvou oddanost.[ENTER]
+[ENTER]
+Pokud obdržíš Chléb nebo Požehnané ovoce, budou uloženy v UI události.

@@ -1,0 +1,12 @@
+Client/pack/yw_pc.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/yw_pc2.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/yw_zone.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/yw_monster2.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/locale.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/yw_etc.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/sound.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/maps.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/season.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/yw_monster.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/yw_npc.epk filter=lfs diff=lfs merge=lfs -text
+Client/pack/yw_pc3.epk filter=lfs diff=lfs merge=lfs -text
