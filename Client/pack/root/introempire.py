@@ -16,6 +16,12 @@ class SelectEmpireWindow(ui.ScriptWindow):
 		net.EMPIRE_A : uiScriptLocale.EMPIREDESC_A,
 		net.EMPIRE_B : uiScriptLocale.EMPIREDESC_B,
 		net.EMPIRE_C : uiScriptLocale.EMPIREDESC_C, }
+		
+	EMPIRE_NAME = {
+		net.EMPIRE_A : localeInfo.EMPIRE_A,
+		net.EMPIRE_B : localeInfo.EMPIRE_B,
+		net.EMPIRE_C : localeInfo.EMPIRE_C
+	}
 
 	if app.__BL_MULTI_LANGUAGE__:
 		@staticmethod
@@ -27,6 +33,12 @@ class SelectEmpireWindow(ui.ScriptWindow):
 				net.EMPIRE_A : uiScriptLocale.EMPIREDESC_A,
 				net.EMPIRE_B : uiScriptLocale.EMPIREDESC_B,
 				net.EMPIRE_C : uiScriptLocale.EMPIREDESC_C, }
+				
+			SelectEmpireWindow.EMPIRE_NAME = {
+				net.EMPIRE_A : localeInfo.EMPIRE_A,
+				net.EMPIRE_B : localeInfo.EMPIRE_B,
+				net.EMPIRE_C : localeInfo.EMPIRE_C
+			}
 
 	class EmpireButton(ui.Window):
 		def __init__(self, owner, arg):
@@ -112,6 +124,7 @@ class SelectEmpireWindow(ui.ScriptWindow):
 		self.OnSelectEmpire(self.empireID)
 		self.__CreateButtons()
 		self.__CreateDescriptionBox()
+		self.SetEmpire(self.empireID)
 		app.ShowCursor()
 
 	def __CreateButtons(self):
@@ -147,6 +160,7 @@ class SelectEmpireWindow(ui.ScriptWindow):
 		self.empireAreaFlagDestAlpha[arg] = 1.0
 		self.empireFlagDestAlpha[arg] = 1.0
 		self.empireID = arg
+		self.SetEmpire(arg)
 
 		event.ClearEventSet(self.descIndex)
 		if self.EMPIRE_DESCRIPTION_TEXT_FILE_NAME.has_key(arg):
@@ -205,6 +219,7 @@ class SelectEmpireWindow(ui.ScriptWindow):
 			self.empireFlag[net.EMPIRE_A]	= GetObject("EmpireFlag_A")
 			self.empireFlag[net.EMPIRE_B]	= GetObject("EmpireFlag_B")
 			self.empireFlag[net.EMPIRE_C]	= GetObject("EmpireFlag_C")
+			self.empireName = GetObject("EmpireName")
 			GetObject("prev_text_button").SetEvent(ui.__mem_func__(self.PrevDescriptionPage))
 			GetObject("next_text_button").SetEvent(ui.__mem_func__(self.NextDescriptionPage))
 
@@ -225,6 +240,9 @@ class SelectEmpireWindow(ui.ScriptWindow):
 
 		return 1
 
+	def SetEmpire(self, id):
+		self.empireName.SetText(self.EMPIRE_NAME.get(id, ""))
+		
 	def ClickLeftButton(self):
 		self.empireID-=1
 		if self.empireID<1:

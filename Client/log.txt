@@ -1,0 +1,1219 @@
+1001 23:26:55379 :: Note: PackFirst mode not enabled. [file]
+1001 23:26:55380 :: The eterpack doesn't exist [pack/special_patch_animation_texcache]
+1001 23:26:55383 :: The eterpack doesn't exist [pack/special_patch_common_texcache]
+1001 23:26:55385 :: The eterpack doesn't exist [pack/special_patch_ex_texcache]
+1001 23:26:55386 :: The eterpack doesn't exist [pack/special_patch_hair_texcache]
+1001 23:26:55387 :: The eterpack doesn't exist [pack/special_patch_maliml_texcache]
+1001 23:26:55394 :: The eterpack doesn't exist [pack/icon_texcache]
+1001 23:26:55406 :: The eterpack doesn't exist [pack/locale_texcache]
+1001 23:26:55423 :: The eterpack doesn't exist [pack/maps_texcache]
+1001 23:26:55427 :: The eterpack doesn't exist [pack/property_texcache]
+1001 23:26:55428 :: The eterpack doesn't exist [pack/root_texcache]
+1001 23:26:55438 :: The eterpack doesn't exist [pack/season_texcache]
+1001 23:26:55447 :: The eterpack doesn't exist [pack/sound_texcache]
+1001 23:26:55448 :: The eterpack doesn't exist [pack/textureset_texcache]
+1001 23:26:55449 :: The eterpack doesn't exist [pack/uiscript_texcache]
+1001 23:26:55470 :: The eterpack doesn't exist [pack/yw_etc_texcache]
+1001 23:26:55475 :: The eterpack doesn't exist [pack/yw_monster_texcache]
+1001 23:26:55490 :: The eterpack doesn't exist [pack/yw_monster2_texcache]
+1001 23:26:55493 :: The eterpack doesn't exist [pack/yw_npc_texcache]
+1001 23:26:55495 :: The eterpack doesn't exist [pack/yw_npc_mount_texcache]
+1001 23:26:55496 :: The eterpack doesn't exist [pack/yw_npc_pet_texcache]
+1001 23:26:55499 :: The eterpack doesn't exist [pack/yw_npc2_texcache]
+1001 23:26:55507 :: The eterpack doesn't exist [pack/yw_pc_texcache]
+1001 23:26:55514 :: The eterpack doesn't exist [pack/yw_pc2_texcache]
+1001 23:26:55517 :: The eterpack doesn't exist [pack/yw_pc3_texcache]
+1001 23:26:55526 :: The eterpack doesn't exist [pack/yw_zone_texcache]
+1001 23:26:00001 :: 
+1001 23:26:00002 :: ## Network - OffLine Phase ##
+1001 23:26:00002 :: 
+1001 23:26:00025 :: importing from pack debugInfo
+1001 23:26:00027 :: importing from lib dbg
+1001 23:26:00027 :: importing from lib app
+1001 23:26:00028 :: importing from pack localeInfo
+1001 23:26:00031 :: importing from lib app
+1001 23:26:00032 :: importing from lib pack
+1001 23:26:00032 :: importing from lib os
+1001 23:26:00073 :: importing from lib wndMgr
+1001 23:26:00074 :: importing from lib systemSetting
+1001 23:26:00075 :: importing from pack mouseModule
+1001 23:26:00078 :: importing from lib app
+1001 23:26:00078 :: importing from lib grp
+1001 23:26:00079 :: importing from lib grpImage
+1001 23:26:00080 :: importing from lib item
+1001 23:26:00080 :: importing from lib wndMgr
+1001 23:26:00081 :: importing from lib player
+1001 23:26:00082 :: importing from lib skill
+1001 23:26:00082 :: importing from lib dbg
+1001 23:26:00084 :: importing from lib grpText
+1001 23:26:00084 :: importing from pack ui
+1001 23:26:00101 :: importing from lib app
+1001 23:26:00102 :: importing from lib ime
+1001 23:26:00103 :: importing from lib grp
+1001 23:26:00103 :: importing from lib snd
+1001 23:26:00104 :: importing from lib wndMgr
+1001 23:26:00104 :: importing from lib item
+1001 23:26:00105 :: importing from lib skill
+1001 23:26:00105 :: importing from sys.modules localeInfo
+1001 23:26:00106 :: importing from lib dbg
+1001 23:26:00106 :: importing from lib guild
+1001 23:26:00107 :: importing from pack constInfo
+1001 23:26:00109 :: importing from lib app
+1001 23:26:00111 :: importing from lib chrmgr
+1001 23:26:00111 :: importing from lib item
+1001 23:26:00112 :: importing from lib net
+1001 23:26:00113 :: importing from lib player
+1001 23:26:00113 :: importing from lib sys
+1001 23:26:00114 :: importing from sys.modules constInfo
+1001 23:26:00114 :: importing from lib _weakref
+1001 23:26:00116 :: importing from lib systemSetting
+1001 23:26:00116 :: importing from sys.modules localeInfo
+1001 23:26:00117 :: importing from pack networkModule
+1001 23:26:00119 :: importing from lib app
+1001 23:26:00121 :: importing from lib chr
+1001 23:26:00121 :: importing from lib dbg
+1001 23:26:00122 :: importing from lib net
+1001 23:26:00123 :: importing from lib snd
+1001 23:26:00124 :: importing from lib chr
+1001 23:26:00125 :: importing from lib chrmgr
+1001 23:26:00125 :: importing from lib background
+1001 23:26:00126 :: importing from lib player
+1001 23:26:00127 :: importing from pack playerSettingModule
+1001 23:26:00136 :: importing from lib chr
+1001 23:26:00137 :: importing from lib chrmgr
+1001 23:26:00137 :: importing from lib skill
+1001 23:26:00138 :: importing from lib net
+1001 23:26:00139 :: importing from lib item
+1001 23:26:00140 :: importing from lib player
+1001 23:26:00140 :: importing from lib effect
+1001 23:26:00141 :: importing from sys.modules constInfo
+1001 23:26:00142 :: importing from sys.modules localeInfo
+1001 23:26:00142 :: importing from pack emotion
+1001 23:26:00145 :: importing from sys.modules localeInfo
+1001 23:26:00145 :: importing from lib player
+1001 23:26:00145 :: importing from lib chrmgr
+1001 23:26:00146 :: importing from lib chr
+1001 23:26:00147 :: importing from lib app
+1001 23:26:00148 :: importing from lib app
+1001 23:26:00149 :: importing from sys.modules ui
+1001 23:26:00150 :: importing from pack uiPhaseCurtain
+1001 23:26:00151 :: importing from lib grp
+1001 23:26:00152 :: importing from sys.modules ui
+1001 23:26:00152 :: importing from lib wndMgr
+1001 23:26:00154 :: importing from lib app
+1001 23:26:00155 :: importing from sys.modules localeInfo
+1001 23:26:00155 :: importing from sys.modules emotion
+1001 23:26:00156 :: importing from pack introCreate
+1001 23:26:00159 :: importing from lib chr
+1001 23:26:00160 :: importing from lib grp
+1001 23:26:00161 :: importing from lib app
+1001 23:26:00162 :: importing from lib net
+1001 23:26:00162 :: importing from lib snd
+1001 23:26:00162 :: importing from lib wndMgr
+1001 23:26:00162 :: importing from lib event
+1001 23:26:00164 :: importing from lib systemSetting
+1001 23:26:00164 :: importing from sys.modules localeInfo
+1001 23:26:00165 :: importing from sys.modules ui
+1001 23:26:00165 :: importing from sys.modules networkModule
+1001 23:26:00166 :: importing from lib math
+1001 23:26:00168 :: importing from lib snd
+1001 23:26:00168 :: importing from pack musicInfo
+1001 23:26:00169 :: importing from sys.modules playerSettingModule
+1001 23:26:00170 :: importing from pack uiScriptLocale
+1001 23:26:00171 :: importing from lib app
+1001 23:26:00172 :: importing from lib pack
+1001 23:26:00173 :: importing from lib os
+1001 23:26:00184 :: importing from pack uiToolTip
+1001 23:26:00198 :: importing from lib dbg
+1001 23:26:00199 :: importing from lib player
+1001 23:26:00200 :: importing from lib item
+1001 23:26:00201 :: importing from lib grp
+1001 23:26:00201 :: importing from lib wndMgr
+1001 23:26:00202 :: importing from lib skill
+1001 23:26:00202 :: importing from lib shop
+1001 23:26:00203 :: importing from lib exchange
+1001 23:26:00204 :: importing from lib grpText
+1001 23:26:00204 :: importing from lib safebox
+1001 23:26:00205 :: importing from sys.modules localeInfo
+1001 23:26:00206 :: importing from lib app
+1001 23:26:00206 :: importing from lib background
+1001 23:26:00207 :: importing from lib nonplayer
+1001 23:26:00208 :: importing from lib chr
+1001 23:26:00209 :: importing from sys.modules ui
+1001 23:26:00209 :: importing from sys.modules mouseModule
+1001 23:26:00210 :: importing from sys.modules constInfo
+1001 23:26:00211 :: importing from sys.modules constInfo
+1001 23:26:00211 :: importing from lib acce
+1001 23:26:00212 :: importing from pack introEmpire
+1001 23:26:00215 :: importing from sys.modules ui
+1001 23:26:00216 :: importing from lib net
+1001 23:26:00216 :: importing from lib wndMgr
+1001 23:26:00218 :: importing from lib dbg
+1001 23:26:00219 :: importing from lib app
+1001 23:26:00219 :: importing from lib event
+1001 23:26:00220 :: importing from lib _weakref
+1001 23:26:00221 :: importing from sys.modules localeInfo
+1001 23:26:00221 :: importing from sys.modules uiScriptLocale
+1001 23:26:00222 :: importing from pack serverInfo
+1001 23:26:00223 :: importing from lib app
+1001 23:26:00224 :: importing from sys.modules localeInfo
+1001 23:26:00225 :: importing from sys.modules constInfo
+1001 23:26:00225 :: importing from lib textTail
+1001 23:26:00226 :: importing from pack uiAffectShower
+1001 23:26:00230 :: importing from sys.modules ui
+1001 23:26:00230 :: importing from sys.modules localeInfo
+1001 23:26:00231 :: importing from lib chr
+1001 23:26:00231 :: importing from lib item
+1001 23:26:00232 :: importing from lib app
+1001 23:26:00233 :: importing from lib skill
+1001 23:26:00234 :: importing from lib player
+1001 23:26:00235 :: importing from sys.modules uiToolTip
+1001 23:26:00235 :: importing from lib math
+1001 23:26:00236 :: importing from pack uiCharacter
+1001 23:26:00241 :: importing from sys.modules ui
+1001 23:26:00242 :: importing from sys.modules uiScriptLocale
+1001 23:26:00242 :: importing from lib app
+1001 23:26:00244 :: importing from lib net
+1001 23:26:00244 :: importing from lib dbg
+1001 23:26:00245 :: importing from lib snd
+1001 23:26:00246 :: importing from lib player
+1001 23:26:00247 :: importing from sys.modules mouseModule
+1001 23:26:00248 :: importing from lib wndMgr
+1001 23:26:00249 :: importing from lib skill
+1001 23:26:00249 :: importing from sys.modules playerSettingModule
+1001 23:26:00250 :: importing from lib quest
+1001 23:26:00250 :: importing from sys.modules localeInfo
+1001 23:26:00251 :: importing from sys.modules uiToolTip
+1001 23:26:00252 :: importing from sys.modules constInfo
+1001 23:26:00253 :: importing from pack colorInfo
+1001 23:26:00254 :: importing from sys.modules emotion
+1001 23:26:00255 :: importing from lib chr
+1001 23:26:00255 :: importing from pack uiChat
+1001 23:26:00261 :: importing from sys.modules ui
+1001 23:26:00262 :: importing from lib grp
+1001 23:26:00262 :: importing from lib chat
+1001 23:26:00263 :: importing from lib wndMgr
+1001 23:26:00264 :: importing from lib net
+1001 23:26:00264 :: importing from lib app
+1001 23:26:00265 :: importing from lib ime
+1001 23:26:00267 :: importing from sys.modules localeInfo
+1001 23:26:00267 :: importing from sys.modules colorInfo
+1001 23:26:00268 :: importing from sys.modules constInfo
+1001 23:26:00269 :: importing from lib systemSetting
+1001 23:26:00269 :: importing from sys.modules uiScriptLocale
+1001 23:26:00269 :: importing from sys.modules uiToolTip
+1001 23:26:00270 :: importing from pack uiDragonSoul
+1001 23:26:00277 :: importing from sys.modules ui
+1001 23:26:00278 :: importing from lib player
+1001 23:26:00278 :: importing from sys.modules mouseModule
+1001 23:26:00279 :: importing from lib net
+1001 23:26:00280 :: importing from lib app
+1001 23:26:00281 :: importing from lib snd
+1001 23:26:00281 :: importing from lib item
+1001 23:26:00282 :: importing from lib chat
+1001 23:26:00283 :: importing from lib grp
+1001 23:26:00283 :: importing from sys.modules uiScriptLocale
+1001 23:26:00285 :: importing from pack uiRefine
+1001 23:26:00287 :: importing from lib app
+1001 23:26:00287 :: importing from lib net
+1001 23:26:00288 :: importing from lib player
+1001 23:26:00289 :: importing from lib item
+1001 23:26:00290 :: importing from sys.modules ui
+1001 23:26:00290 :: importing from sys.modules uiToolTip
+1001 23:26:00291 :: importing from sys.modules mouseModule
+1001 23:26:00292 :: importing from sys.modules localeInfo
+1001 23:26:00292 :: importing from pack uiCommon
+1001 23:26:00296 :: importing from sys.modules ui
+1001 23:26:00297 :: importing from sys.modules localeInfo
+1001 23:26:00298 :: importing from lib app
+1001 23:26:00298 :: importing from lib ime
+1001 23:26:00299 :: importing from sys.modules uiScriptLocale
+1001 23:26:00299 :: importing from sys.modules constInfo
+1001 23:26:00299 :: importing from pack uiAttachMetin
+1001 23:26:00301 :: importing from lib dbg
+1001 23:26:00302 :: importing from lib player
+1001 23:26:00302 :: importing from lib item
+1001 23:26:00304 :: importing from lib net
+1001 23:26:00306 :: importing from lib snd
+1001 23:26:00306 :: importing from sys.modules ui
+1001 23:26:00307 :: importing from sys.modules uiToolTip
+1001 23:26:00308 :: importing from sys.modules localeInfo
+1001 23:26:00309 :: importing from pack uiPickMoney
+1001 23:26:00310 :: importing from lib wndMgr
+1001 23:26:00311 :: importing from sys.modules ui
+1001 23:26:00312 :: importing from lib ime
+1001 23:26:00312 :: importing from sys.modules localeInfo
+1001 23:26:00313 :: importing from lib app
+1001 23:26:00315 :: importing from sys.modules uiCommon
+1001 23:26:00316 :: importing from pack uiPrivateShopBuilder
+1001 23:26:00318 :: importing from sys.modules ui
+1001 23:26:00319 :: importing from lib snd
+1001 23:26:00320 :: importing from lib shop
+1001 23:26:00321 :: importing from sys.modules mouseModule
+1001 23:26:00321 :: importing from lib player
+1001 23:26:00322 :: importing from lib chr
+1001 23:26:00322 :: importing from lib net
+1001 23:26:00324 :: importing from sys.modules uiCommon
+1001 23:26:00326 :: importing from sys.modules localeInfo
+1001 23:26:00326 :: importing from lib chat
+1001 23:26:00327 :: importing from lib item
+1001 23:26:00327 :: importing from lib systemSetting
+1001 23:26:00329 :: importing from lib player
+1001 23:26:00329 :: importing from lib app
+1001 23:26:00330 :: importing from sys.modules localeInfo
+1001 23:26:00330 :: importing from sys.modules constInfo
+1001 23:26:00331 :: importing from lib ime
+1001 23:26:00332 :: importing from pack uiInventory
+1001 23:26:00339 :: importing from sys.modules ui
+1001 23:26:00340 :: importing from lib player
+1001 23:26:00341 :: importing from sys.modules mouseModule
+1001 23:26:00342 :: importing from lib net
+1001 23:26:00342 :: importing from lib app
+1001 23:26:00343 :: importing from lib snd
+1001 23:26:00345 :: importing from lib item
+1001 23:26:00346 :: importing from lib player
+1001 23:26:00346 :: importing from lib chat
+1001 23:26:00347 :: importing from lib grp
+1001 23:26:00347 :: importing from sys.modules uiScriptLocale
+1001 23:26:00348 :: importing from sys.modules uiRefine
+1001 23:26:00349 :: importing from sys.modules uiAttachMetin
+1001 23:26:00350 :: importing from sys.modules uiPickMoney
+1001 23:26:00350 :: importing from sys.modules uiCommon
+1001 23:26:00351 :: importing from sys.modules uiPrivateShopBuilder
+1001 23:26:00351 :: importing from sys.modules localeInfo
+1001 23:26:00352 :: importing from sys.modules constInfo
+1001 23:26:00352 :: importing from lib ime
+1001 23:26:00355 :: importing from lib wndMgr
+1001 23:26:00355 :: importing from lib dbg
+1001 23:26:00356 :: importing from sys.modules uiToolTip
+1001 23:26:00357 :: importing from pack uiPickETC
+1001 23:26:00358 :: importing from lib wndMgr
+1001 23:26:00359 :: importing from sys.modules ui
+1001 23:26:00361 :: importing from lib ime
+1001 23:26:00362 :: importing from sys.modules localeInfo
+1001 23:26:00364 :: importing from lib acce
+1001 23:26:00364 :: importing from lib _weakref
+1001 23:26:00365 :: importing from lib sys
+1001 23:26:00366 :: importing from lib wndMgr
+1001 23:26:00366 :: importing from sys.modules uiToolTip
+1001 23:26:00366 :: importing from pack uiGuild
+1001 23:26:00377 :: importing from lib app
+1001 23:26:00378 :: importing from sys.modules ui
+1001 23:26:00379 :: importing from lib guild
+1001 23:26:00380 :: importing from lib net
+1001 23:26:00380 :: importing from lib wndMgr
+1001 23:26:00381 :: importing from lib grp
+1001 23:26:00382 :: importing from lib grpText
+1001 23:26:00383 :: importing from sys.modules uiPickMoney
+1001 23:26:00384 :: importing from sys.modules localeInfo
+1001 23:26:00384 :: importing from lib player
+1001 23:26:00385 :: importing from lib skill
+1001 23:26:00385 :: importing from sys.modules mouseModule
+1001 23:26:00386 :: importing from pack uiUploadMark
+1001 23:26:00388 :: importing from lib app
+1001 23:26:00389 :: importing from sys.modules ui
+1001 23:26:00390 :: importing from sys.modules localeInfo
+1001 23:26:00390 :: importing from sys.modules uiScriptLocale
+1001 23:26:00392 :: importing from sys.modules uiCommon
+1001 23:26:00393 :: importing from sys.modules uiToolTip
+1001 23:26:00394 :: importing from sys.modules playerSettingModule
+1001 23:26:00395 :: importing from sys.modules constInfo
+1001 23:26:00395 :: importing from lib background
+1001 23:26:00395 :: importing from lib miniMap
+1001 23:26:00396 :: importing from lib chr
+1001 23:26:00396 :: importing from sys.modules uiScriptLocale
+1001 23:26:00397 :: importing from lib _weakref
+1001 23:26:00398 :: importing from sys.modules uiPickETC
+1001 23:26:00399 :: importing from pack uiMapNameShower
+1001 23:26:00401 :: importing from lib app
+1001 23:26:00402 :: importing from sys.modules ui
+1001 23:26:00402 :: importing from sys.modules uiScriptLocale
+1001 23:26:00404 :: importing from sys.modules localeInfo
+1001 23:26:00405 :: importing from pack uiParty
+1001 23:26:00409 :: importing from sys.modules ui
+1001 23:26:00409 :: importing from lib grp
+1001 23:26:00411 :: importing from lib player
+1001 23:26:00412 :: importing from sys.modules uiToolTip
+1001 23:26:00413 :: importing from lib net
+1001 23:26:00413 :: importing from sys.modules localeInfo
+1001 23:26:00414 :: importing from sys.modules uiScriptLocale
+1001 23:26:00414 :: importing from sys.modules constInfo
+1001 23:26:00415 :: importing from sys.modules mouseModule
+1001 23:26:00416 :: importing from lib app
+1001 23:26:00417 :: importing from pack uiSelectMusic
+1001 23:26:00418 :: importing from lib app
+1001 23:26:00420 :: importing from sys.modules ui
+1001 23:26:00421 :: importing from sys.modules localeInfo
+1001 23:26:00421 :: importing from sys.modules uiScriptLocale
+1001 23:26:00422 :: importing from sys.modules uiScriptLocale
+1001 23:26:00423 :: importing from pack uiTarget
+1001 23:26:00427 :: importing from lib app
+1001 23:26:00427 :: importing from sys.modules ui
+1001 23:26:00427 :: importing from lib player
+1001 23:26:00429 :: importing from lib net
+1001 23:26:00430 :: importing from lib wndMgr
+1001 23:26:00430 :: importing from lib messenger
+1001 23:26:00431 :: importing from lib guild
+1001 23:26:00431 :: importing from lib chr
+1001 23:26:00432 :: importing from lib nonplayer
+1001 23:26:00432 :: importing from sys.modules localeInfo
+1001 23:26:00434 :: importing from sys.modules constInfo
+1001 23:26:00435 :: importing from sys.modules uiToolTip
+1001 23:26:00436 :: importing from pack uiCandidate
+1001 23:26:00437 :: importing from sys.modules ui
+1001 23:26:00440 :: importing from lib ime
+1001 23:26:00440 :: importing from lib wndMgr
+1001 23:26:00441 :: importing from sys.modules constInfo
+1001 23:26:00442 :: importing from sys.modules musicInfo
+1001 23:26:00443 :: importing from pack stringCommander
+1001 23:26:00444 :: importing from lib _weakref
+1001 23:26:00445 :: importing from sys.modules constInfo
+1001 23:26:00445 :: importing from sys.modules ui
+1001 23:26:00735 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/dropitem/dropitem.mss]
+1001 23:26:00741 :: NEWMAIN STREAM ----------------------------------------------------------------------------1001 23:26:00741 :: 
+1001 23:26:00741 :: NEW POPUP DIALOG ----------------------------------------------------------------------------1001 23:26:00742 :: 
+1001 23:26:00742 :: importing from pack exception
+1001 23:26:00743 :: importing from lib exceptions
+1001 23:26:00743 :: importing from lib os
+1001 23:26:00745 :: importing from lib errno
+1001 23:26:00745 :: ===== Load Script File : UIScript/PopupDialog.py1001 23:26:00745 :: 
+1001 23:26:00745 :: importing from lib sys
+1001 23:26:00746 :: importing from pack utils
+1001 23:26:00747 :: importing from lib chr
+1001 23:26:00748 :: importing from lib player
+1001 23:26:00748 :: importing from lib app
+1001 23:26:00749 :: importing from lib sys
+1001 23:26:00750 :: importing from lib copy
+1001 23:26:00751 :: importing from lib types
+1001 23:26:00751 :: importing from lib weakref
+1001 23:26:00752 :: importing from lib UserDict
+1001 23:26:00752 :: importing from lib _weakref
+1001 23:26:00755 :: importing from lib _weakrefset
+1001 23:26:00756 :: importing from lib exceptions
+1001 23:26:00756 :: importing from lib copy_reg
+1001 23:26:00757 :: importing from lib org.python.core
+1001 23:26:00758 :: importing from sys.modules uiScriptLocale
+1001 23:26:00758 :: importing from sys.modules localeInfo
+1001 23:26:00759 :: importing from lib sys
+1001 23:26:00759 :: importing from lib item
+1001 23:26:00759 :: importing from lib app
+1001 23:26:00760 :: importing from lib player
+1001 23:26:00761 :: importing from sys.modules utils
+1001 23:26:00761 :: importing from lib types
+1001 23:26:00762 :: importing from sys.modules uiScriptLocale
+1001 23:26:00771 :: NEW CURTAIN  ----------------------------------------------------------------------------1001 23:26:00771 :: 
+1001 23:26:00771 :: 
+1001 23:26:00772 :: ## Network - OffLine Phase ##
+1001 23:26:00773 :: 
+1001 23:26:00773 :: importing from pack introLogo
+1001 23:26:00775 :: importing from lib app
+1001 23:26:00775 :: importing from lib net
+1001 23:26:00776 :: importing from sys.modules ui
+1001 23:26:00776 :: importing from lib snd
+1001 23:26:00777 :: importing from lib wndMgr
+1001 23:26:00777 :: importing from sys.modules uiScriptLocale
+1001 23:26:00778 :: importing from sys.modules localeInfo
+1001 23:26:00779 :: NEW LOGO WINDOW  ----------------------------------------------------------------------------1001 23:26:00779 :: 
+1001 23:26:00825 :: OPEN LOGO WINDOW  ----------------------------------------------------------------------------1001 23:26:00825 :: 
+1001 23:26:00826 :: PointWindow: SelectLogoWindow
+1001 23:26:00878 :: 
+1001 23:26:00879 :: ## Network - OffLine Phase ##
+1001 23:26:00880 :: 
+1001 23:26:00881 :: importing from pack introLogin
+1001 23:26:00886 :: importing from lib dbg
+1001 23:26:00888 :: importing from lib app
+1001 23:26:00888 :: importing from lib net
+1001 23:26:00889 :: importing from sys.modules ui
+1001 23:26:00890 :: importing from lib ime
+1001 23:26:00890 :: importing from lib snd
+1001 23:26:00891 :: importing from lib wndMgr
+1001 23:26:00891 :: importing from sys.modules musicInfo
+1001 23:26:00892 :: importing from sys.modules serverInfo
+1001 23:26:00893 :: importing from lib systemSetting
+1001 23:26:00893 :: importing from lib ServerStateChecker
+1001 23:26:00894 :: importing from sys.modules localeInfo
+1001 23:26:00894 :: importing from sys.modules constInfo
+1001 23:26:00895 :: importing from sys.modules uiCommon
+1001 23:26:00897 :: importing from lib time
+1001 23:26:00897 :: importing from pack serverCommandParser
+1001 23:26:00898 :: importing from lib net
+1001 23:26:00899 :: importing from lib background
+1001 23:26:00900 :: importing from sys.modules stringCommander
+1001 23:26:00900 :: importing from sys.modules constInfo
+1001 23:26:00900 :: importing from lib ime
+1001 23:26:00901 :: importing from sys.modules uiScriptLocale
+1001 23:26:00902 :: NEW LOGIN WINDOW ----------------------------------------------------------------------------1001 23:26:00902 :: 
+1001 23:26:00902 :: PointWindow: PhaseCurtain
+1001 23:26:01025 :: ---------------------------------------------------------------CLOSE LOGO WINDOW1001 23:26:01025 :: 
+1001 23:26:01025 :: LOGIN WINDOW OPEN ----------------------------------------------------------------------------1001 23:26:01025 :: 
+1001 23:26:01026 :: importing from lib dbg
+1001 23:26:01027 :: importing from sys.modules exception
+1001 23:26:01028 :: importing from lib exceptions
+1001 23:26:01028 :: importing from lib os
+1001 23:26:01029 :: importing from lib errno
+1001 23:26:01030 :: ===== Load Script File : locale/common/ui/LoginWindow.py1001 23:26:01030 :: 
+1001 23:26:01030 :: importing from lib sys
+1001 23:26:01031 :: importing from sys.modules utils
+1001 23:26:01031 :: importing from lib chr
+1001 23:26:01031 :: importing from lib player
+1001 23:26:01032 :: importing from lib app
+1001 23:26:01034 :: importing from lib sys
+1001 23:26:01035 :: importing from lib copy
+1001 23:26:01037 :: importing from sys.modules uiScriptLocale
+1001 23:26:01037 :: importing from sys.modules localeInfo
+1001 23:26:01038 :: importing from lib sys
+1001 23:26:01040 :: importing from lib item
+1001 23:26:01041 :: importing from lib app
+1001 23:26:01042 :: importing from lib player
+1001 23:26:01043 :: importing from sys.modules utils
+1001 23:26:01044 :: importing from lib types
+1001 23:26:01047 :: importing from sys.modules uiScriptLocale
+1001 23:26:01139 :: importing from lib _winreg
+1001 23:26:01140 :: importing from lib _winreg
+1001 23:26:01141 :: importing from lib _winreg
+1001 23:26:01141 :: importing from lib _winreg
+1001 23:26:01142 :: importing from lib _winreg
+1001 23:26:01142 :: importing from lib _winreg
+1001 23:26:01144 :: importing from lib _winreg
+1001 23:26:01145 :: importing from lib _winreg
+1001 23:26:01146 :: importing from lib _winreg
+1001 23:26:01147 :: importing from lib _winreg
+1001 23:26:01171 :: importing from lib xml.dom.minidom
+1001 23:26:01172 :: importing from lib _xmlplus
+1001 23:26:01174 :: importing from lib domreg
+1001 23:26:01175 :: importing from lib xml.dom.minicompat
+1001 23:26:01176 :: importing from lib xml.dom
+1001 23:26:01177 :: importing from lib xml.dom
+1001 23:26:01178 :: importing from lib xml.dom
+1001 23:26:01179 :: importing from lib xml.dom.minicompat
+1001 23:26:01181 :: importing from lib xml.dom.xmlbuilder
+1001 23:26:01182 :: importing from lib copy
+1001 23:26:01183 :: importing from lib xml.dom
+1001 23:26:01183 :: importing from lib xml.dom.nodefilter
+1001 23:26:01188 :: ---------------------------------------------------------------------------- DELETE LOGO WINDOW1001 23:26:01188 :: 
+1001 23:26:01189 :: Succeed connecting.
+1001 23:26:01206 :: PointWindow: bg2
+1001 23:26:01553 :: PointWindow: ServerBoard
+1001 23:26:01570 :: PointWindow: ChannelList
+1001 23:26:02592 :: PointWindow: ServerSelectButton
+1001 23:26:02891 :: PointWindow: key_space
+1001 23:26:03153 :: PointWindow: key_44
+1001 23:26:03170 :: PointWindow: key_45
+1001 23:26:03187 :: PointWindow: key_34
+1001 23:26:03204 :: PointWindow: key_23
+1001 23:26:03219 :: PointWindow: key_11
+1001 23:26:03236 :: PointWindow: VirtualKeyboard
+1001 23:26:03254 :: PointWindow: !!debug
+1001 23:26:03302 :: PointWindow: !!debug
+1001 23:26:03351 :: PointWindow: !!debug
+1001 23:26:03451 :: PointWindow: !!debug
+1001 23:26:03797 :: importing from sys.modules constInfo
+1001 23:26:03799 :: PointWindow: !!debug
+1001 23:26:03896 :: HANDSHAKE RECV 5816715 0
+1001 23:26:03896 :: HANDSHAKE SEND 5816715
+1001 23:26:03962 :: HANDSHAKE RECV 5816795 40
+1001 23:26:03962 :: HANDSHAKE SEND 5816875
+1001 23:26:04045 :: KEY_AGREEMENT RECV 256
+1001 23:26:04081 :: KEY_AGREEMENT SEND 256
+1001 23:26:04128 :: KEY_AGREEMENT_COMPLETED RECV
+1001 23:26:04128 :: PointWindow: board
+1001 23:26:04424 :: Succeed connecting.
+1001 23:26:04489 :: 
+1001 23:26:04490 :: ## Network - Hand Shake Phase ##
+1001 23:26:04490 :: 
+1001 23:26:04508 :: HANDSHAKE RECV 5817317 0
+1001 23:26:04508 :: HANDSHAKE SEND 5817317
+1001 23:26:04605 :: HANDSHAKE RECV 5817438 60
+1001 23:26:04605 :: HANDSHAKE SEND 5817558
+1001 23:26:04687 :: HANDSHAKE RECV 5817517 39
+1001 23:26:04687 :: HANDSHAKE SEND 5817595
+1001 23:26:04771 :: KEY_AGREEMENT RECV 256
+1001 23:26:04804 :: KEY_AGREEMENT SEND 256
+1001 23:26:04852 :: KEY_AGREEMENT_COMPLETED RECV
+1001 23:26:04886 :: 
+1001 23:26:04887 :: ## Network - Login Phase ##
+1001 23:26:04887 :: 
+1001 23:26:05183 :: 
+1001 23:26:05184 :: ## Network - Select Phase ##
+1001 23:26:05184 :: 
+1001 23:26:05185 :: importing from pack introSelect
+1001 23:26:05189 :: importing from lib chr
+1001 23:26:05190 :: importing from lib grp
+1001 23:26:05191 :: importing from lib app
+1001 23:26:05192 :: importing from lib math
+1001 23:26:05192 :: importing from lib wndMgr
+1001 23:26:05194 :: importing from lib snd
+1001 23:26:05194 :: importing from lib net
+1001 23:26:05195 :: importing from lib systemSetting
+1001 23:26:05198 :: importing from sys.modules localeInfo
+1001 23:26:05200 :: importing from lib chr
+1001 23:26:05201 :: importing from sys.modules ui
+1001 23:26:05203 :: importing from sys.modules uiScriptLocale
+1001 23:26:05204 :: importing from sys.modules networkModule
+1001 23:26:05205 :: importing from sys.modules musicInfo
+1001 23:26:05205 :: importing from sys.modules playerSettingModule
+1001 23:26:05207 :: importing from sys.modules uiCommon
+1001 23:26:05208 :: importing from sys.modules uiMapNameShower
+1001 23:26:05208 :: importing from sys.modules uiAffectShower
+1001 23:26:05209 :: importing from pack uiPlayerGauge
+1001 23:26:05210 :: importing from sys.modules ui
+1001 23:26:05212 :: importing from lib player
+1001 23:26:05212 :: importing from lib chr
+1001 23:26:05213 :: importing from lib textTail
+1001 23:26:05214 :: importing from sys.modules uiCharacter
+1001 23:26:05215 :: importing from sys.modules uiTarget
+1001 23:26:05215 :: importing from pack consoleModule
+1001 23:26:05219 :: importing from lib app
+1001 23:26:05221 :: importing from lib grp
+1001 23:26:05221 :: importing from lib wndMgr
+1001 23:26:05222 :: importing from sys.modules ui
+1001 23:26:05223 :: importing from lib os
+1001 23:26:05223 :: importing from lib sys
+1001 23:26:05224 :: importing from lib stat
+1001 23:26:05225 :: importing from lib chrmgr
+1001 23:26:05226 :: importing from lib chr
+1001 23:26:05226 :: importing from lib net
+1001 23:26:05227 :: importing from lib background
+1001 23:26:05228 :: importing from lib snd
+1001 23:26:05229 :: importing from lib net
+1001 23:26:05230 :: importing from lib player
+1001 23:26:05230 :: importing from sys.modules localeInfo
+1001 23:26:05231 :: importing from sys.modules uiScriptLocale
+1001 23:26:05232 :: importing from pack interfaceModule
+1001 23:26:05239 :: importing from sys.modules constInfo
+1001 23:26:05240 :: importing from lib systemSetting
+1001 23:26:05240 :: importing from lib wndMgr
+1001 23:26:05241 :: importing from lib chat
+1001 23:26:05241 :: importing from lib app
+1001 23:26:05242 :: importing from lib player
+1001 23:26:05242 :: importing from pack uiTaskBar
+1001 23:26:05248 :: importing from sys.modules ui
+1001 23:26:05249 :: importing from lib net
+1001 23:26:05250 :: importing from lib item
+1001 23:26:05250 :: importing from lib skill
+1001 23:26:05251 :: importing from sys.modules localeInfo
+1001 23:26:05252 :: importing from lib wndMgr
+1001 23:26:05253 :: importing from lib player
+1001 23:26:05253 :: importing from sys.modules constInfo
+1001 23:26:05254 :: importing from sys.modules mouseModule
+1001 23:26:05254 :: importing from sys.modules uiScriptLocale
+1001 23:26:05255 :: importing from lib app
+1001 23:26:05256 :: importing from pack uicharacternew
+1001 23:26:05263 :: importing from sys.modules ui
+1001 23:26:05264 :: importing from sys.modules uiScriptLocale
+1001 23:26:05265 :: importing from lib net
+1001 23:26:05266 :: importing from lib app
+1001 23:26:05267 :: importing from lib chr
+1001 23:26:05268 :: importing from lib chrmgr
+1001 23:26:05268 :: importing from lib player
+1001 23:26:05269 :: importing from lib dbg
+1001 23:26:05270 :: importing from lib snd
+1001 23:26:05271 :: importing from sys.modules mouseModule
+1001 23:26:05271 :: importing from lib wndMgr
+1001 23:26:05271 :: importing from lib skill
+1001 23:26:05272 :: importing from sys.modules playerSettingModule
+1001 23:26:05272 :: importing from lib quest
+1001 23:26:05274 :: importing from sys.modules localeInfo
+1001 23:26:05276 :: importing from sys.modules uiToolTip
+1001 23:26:05277 :: importing from sys.modules constInfo
+1001 23:26:05278 :: importing from sys.modules emotion
+1001 23:26:05278 :: importing from pack uiCharacterDetails
+1001 23:26:05282 :: importing from sys.modules ui
+1001 23:26:05283 :: importing from sys.modules localeInfo
+1001 23:26:05283 :: importing from lib player
+1001 23:26:05283 :: importing from lib item
+1001 23:26:05285 :: importing from sys.modules uiToolTip
+1001 23:26:05286 :: importing from lib wndMgr
+1001 23:26:05286 :: importing from lib app
+1001 23:26:05287 :: importing from sys.modules uiInventory
+1001 23:26:05288 :: importing from sys.modules uiDragonSoul
+1001 23:26:05289 :: importing from sys.modules uiChat
+1001 23:26:05290 :: importing from pack uiMessenger
+1001 23:26:05293 :: importing from lib app
+1001 23:26:05293 :: importing from sys.modules ui
+1001 23:26:05295 :: importing from lib grp
+1001 23:26:05296 :: importing from lib net
+1001 23:26:05296 :: importing from lib guild
+1001 23:26:05297 :: importing from lib messenger
+1001 23:26:05298 :: importing from sys.modules localeInfo
+1001 23:26:05299 :: importing from sys.modules constInfo
+1001 23:26:05299 :: importing from sys.modules uiToolTip
+1001 23:26:05300 :: importing from pack uiGameOption
+1001 23:26:05302 :: importing from sys.modules ui
+1001 23:26:05303 :: importing from lib snd
+1001 23:26:05305 :: importing from lib systemSetting
+1001 23:26:05305 :: importing from lib net
+1001 23:26:05306 :: importing from lib chat
+1001 23:26:05307 :: importing from lib app
+1001 23:26:05308 :: importing from sys.modules localeInfo
+1001 23:26:05308 :: importing from sys.modules constInfo
+1001 23:26:05309 :: importing from lib chrmgr
+1001 23:26:05310 :: importing from lib player
+1001 23:26:05311 :: importing from sys.modules uiPrivateShopBuilder
+1001 23:26:05312 :: importing from sys.modules interfaceModule
+1001 23:26:05312 :: importing from sys.modules uiCommon
+1001 23:26:05314 :: importing from lib _weakref
+1001 23:26:05314 :: importing from lib guild
+1001 23:26:05315 :: importing from sys.modules ui
+1001 23:26:05316 :: importing from pack uiHelp
+1001 23:26:05317 :: importing from lib app
+1001 23:26:05318 :: importing from sys.modules ui
+1001 23:26:05319 :: importing from sys.modules localeInfo
+1001 23:26:05320 :: importing from sys.modules uiScriptLocale
+1001 23:26:05321 :: importing from pack uiWhisper
+1001 23:26:05323 :: importing from sys.modules ui
+1001 23:26:05324 :: importing from lib net
+1001 23:26:05325 :: importing from lib chat
+1001 23:26:05325 :: importing from lib player
+1001 23:26:05326 :: importing from lib app
+1001 23:26:05327 :: importing from sys.modules localeInfo
+1001 23:26:05327 :: importing from lib ime
+1001 23:26:05328 :: importing from lib chr
+1001 23:26:05329 :: importing from lib systemSetting
+1001 23:26:05330 :: importing from pack uiPointReset
+1001 23:26:05331 :: importing from lib net
+1001 23:26:05333 :: importing from sys.modules ui
+1001 23:26:05334 :: importing from sys.modules networkModule
+1001 23:26:05334 :: importing from pack uiShop
+1001 23:26:05337 :: importing from lib net
+1001 23:26:05337 :: importing from lib player
+1001 23:26:05338 :: importing from lib item
+1001 23:26:05339 :: importing from lib snd
+1001 23:26:05340 :: importing from lib shop
+1001 23:26:05340 :: importing from lib net
+1001 23:26:05342 :: importing from lib wndMgr
+1001 23:26:05343 :: importing from lib app
+1001 23:26:05343 :: importing from lib chat
+1001 23:26:05345 :: importing from sys.modules ui
+1001 23:26:05345 :: importing from sys.modules uiCommon
+1001 23:26:05346 :: importing from sys.modules mouseModule
+1001 23:26:05346 :: importing from sys.modules localeInfo
+1001 23:26:05347 :: importing from sys.modules constInfo
+1001 23:26:05348 :: importing from lib _weakref
+1001 23:26:05348 :: importing from pack uiExchange
+1001 23:26:05350 :: importing from lib player
+1001 23:26:05351 :: importing from lib exchange
+1001 23:26:05352 :: importing from lib net
+1001 23:26:05352 :: importing from sys.modules localeInfo
+1001 23:26:05354 :: importing from lib chat
+1001 23:26:05354 :: importing from lib item
+1001 23:26:05355 :: importing from sys.modules ui
+1001 23:26:05356 :: importing from sys.modules mouseModule
+1001 23:26:05357 :: importing from sys.modules uiPickMoney
+1001 23:26:05357 :: importing from lib wndMgr
+1001 23:26:05358 :: importing from lib app
+1001 23:26:05360 :: importing from pack uiSystem
+1001 23:26:05362 :: importing from lib net
+1001 23:26:05363 :: importing from lib app
+1001 23:26:05364 :: importing from sys.modules ui
+1001 23:26:05364 :: importing from pack uiOption
+1001 23:26:05366 :: importing from sys.modules ui
+1001 23:26:05367 :: importing from lib snd
+1001 23:26:05367 :: importing from lib systemSetting
+1001 23:26:05368 :: importing from lib net
+1001 23:26:05370 :: importing from lib chat
+1001 23:26:05370 :: importing from lib app
+1001 23:26:05371 :: importing from sys.modules localeInfo
+1001 23:26:05372 :: importing from sys.modules constInfo
+1001 23:26:05372 :: importing from lib chrmgr
+1001 23:26:05373 :: importing from lib player
+1001 23:26:05374 :: importing from pack uiSystemOption
+1001 23:26:05376 :: importing from lib dbg
+1001 23:26:05377 :: importing from sys.modules ui
+1001 23:26:05377 :: importing from lib snd
+1001 23:26:05379 :: importing from lib systemSetting
+1001 23:26:05380 :: importing from lib net
+1001 23:26:05381 :: importing from lib chat
+1001 23:26:05382 :: importing from lib app
+1001 23:26:05382 :: importing from sys.modules localeInfo
+1001 23:26:05384 :: importing from sys.modules constInfo
+1001 23:26:05384 :: importing from lib chrmgr
+1001 23:26:05385 :: importing from lib player
+1001 23:26:05386 :: importing from sys.modules musicInfo
+1001 23:26:05387 :: importing from sys.modules uiSelectMusic
+1001 23:26:05387 :: importing from lib background
+1001 23:26:05388 :: importing from sys.modules uiScriptLocale
+1001 23:26:05389 :: importing from sys.modules uiGameOption
+1001 23:26:05390 :: importing from sys.modules uiScriptLocale
+1001 23:26:05391 :: importing from sys.modules networkModule
+1001 23:26:05392 :: importing from sys.modules constInfo
+1001 23:26:05392 :: importing from sys.modules localeInfo
+1001 23:26:05393 :: importing from pack uiMoveChannel
+1001 23:26:05395 :: importing from lib app
+1001 23:26:05395 :: importing from lib dbg
+1001 23:26:05396 :: importing from sys.modules ui
+1001 23:26:05396 :: importing from sys.modules exception
+1001 23:26:05397 :: importing from sys.modules localeInfo
+1001 23:26:05399 :: importing from lib chat
+1001 23:26:05399 :: importing from sys.modules serverInfo
+1001 23:26:05400 :: importing from lib net
+1001 23:26:05401 :: importing from pack uiRestart
+1001 23:26:05402 :: importing from lib dbg
+1001 23:26:05403 :: importing from lib app
+1001 23:26:05404 :: importing from lib net
+1001 23:26:05405 :: importing from sys.modules ui
+1001 23:26:05405 :: importing from sys.modules uiToolTip
+1001 23:26:05407 :: importing from pack uiMiniMap
+1001 23:26:05408 :: importing from sys.modules ui
+1001 23:26:05409 :: importing from sys.modules uiScriptLocale
+1001 23:26:05410 :: importing from lib wndMgr
+1001 23:26:05410 :: importing from lib player
+1001 23:26:05411 :: importing from lib miniMap
+1001 23:26:05412 :: importing from sys.modules localeInfo
+1001 23:26:05412 :: importing from lib net
+1001 23:26:05414 :: importing from lib app
+1001 23:26:05415 :: importing from sys.modules colorInfo
+1001 23:26:05416 :: importing from sys.modules constInfo
+1001 23:26:05416 :: importing from lib background
+1001 23:26:05418 :: importing from lib chr
+1001 23:26:05419 :: importing from sys.modules constInfo
+1001 23:26:05419 :: importing from sys.modules uiParty
+1001 23:26:05420 :: importing from pack uiSafebox
+1001 23:26:05423 :: importing from sys.modules ui
+1001 23:26:05424 :: importing from sys.modules mouseModule
+1001 23:26:05425 :: importing from lib player
+1001 23:26:05426 :: importing from lib net
+1001 23:26:05426 :: importing from lib snd
+1001 23:26:05427 :: importing from lib safebox
+1001 23:26:05428 :: importing from lib chat
+1001 23:26:05429 :: importing from lib app
+1001 23:26:05429 :: importing from sys.modules localeInfo
+1001 23:26:05430 :: importing from sys.modules uiScriptLocale
+1001 23:26:05431 :: importing from lib item
+1001 23:26:05432 :: importing from sys.modules uiGuild
+1001 23:26:05432 :: importing from pack uiQuest
+1001 23:26:05434 :: importing from lib encodings.cp949
+1001 23:26:05436 :: importing from lib _codecs_kr
+1001 23:26:05437 :: importing from lib codecs
+1001 23:26:05438 :: importing from lib _multibytecodec
+1001 23:26:05441 :: importing from sys.modules ui
+1001 23:26:05442 :: importing from lib dbg
+1001 23:26:05442 :: importing from lib app
+1001 23:26:05445 :: importing from lib grp
+1001 23:26:05446 :: importing from lib grpImage
+1001 23:26:05446 :: importing from lib event
+1001 23:26:05447 :: importing from lib time
+1001 23:26:05448 :: importing from lib wndMgr
+1001 23:26:05449 :: importing from lib net
+1001 23:26:05449 :: importing from lib sys
+1001 23:26:05450 :: importing from sys.modules uiPrivateShopBuilder
+1001 23:26:05451 :: importing from sys.modules uiCommon
+1001 23:26:05452 :: importing from sys.modules uiRefine
+1001 23:26:05452 :: importing from pack uiEquipmentDialog
+1001 23:26:05454 :: importing from sys.modules ui
+1001 23:26:05455 :: importing from lib chr
+1001 23:26:05456 :: importing from lib player
+1001 23:26:05456 :: importing from pack uiGameButton
+1001 23:26:05457 :: importing from lib app
+1001 23:26:05458 :: importing from sys.modules ui
+1001 23:26:05459 :: importing from lib player
+1001 23:26:05460 :: importing from lib net
+1001 23:26:05460 :: importing from pack uiTip
+1001 23:26:05462 :: importing from sys.modules ui
+1001 23:26:05464 :: importing from lib grp
+1001 23:26:05464 :: importing from lib app
+1001 23:26:05465 :: importing from lib wndMgr
+1001 23:26:05466 :: importing from pack uiCube
+1001 23:26:05469 :: importing from sys.modules ui
+1001 23:26:05469 :: importing from lib net
+1001 23:26:05470 :: importing from sys.modules mouseModule
+1001 23:26:05471 :: importing from lib player
+1001 23:26:05471 :: importing from lib snd
+1001 23:26:05472 :: importing from sys.modules localeInfo
+1001 23:26:05472 :: importing from lib item
+1001 23:26:05474 :: importing from lib grp
+1001 23:26:05475 :: importing from sys.modules uiScriptLocale
+1001 23:26:05476 :: importing from sys.modules uiToolTip
+1001 23:26:05476 :: importing from lib miniMap
+1001 23:26:05477 :: importing from pack uiSelectItem
+1001 23:26:05478 :: importing from sys.modules ui
+1001 23:26:05479 :: importing from lib player
+1001 23:26:05480 :: importing from lib item
+1001 23:26:05482 :: importing from lib wndMgr
+1001 23:26:05483 :: importing from lib net
+1001 23:26:05483 :: importing from sys.modules uiScriptLocale
+1001 23:26:05484 :: importing from lib event
+1001 23:26:05485 :: importing from sys.modules localeInfo
+1001 23:26:05485 :: importing from pack uiacce
+1001 23:26:05487 :: importing from sys.modules ui
+1001 23:26:05488 :: importing from lib net
+1001 23:26:05488 :: importing from lib grp
+1001 23:26:05489 :: importing from lib snd
+1001 23:26:05491 :: importing from lib item
+1001 23:26:05492 :: importing from lib acce
+1001 23:26:05492 :: importing from lib player
+1001 23:26:05492 :: importing from sys.modules uiToolTip
+1001 23:26:05494 :: importing from sys.modules localeInfo
+1001 23:26:05495 :: importing from sys.modules uiInventory
+1001 23:26:05496 :: importing from sys.modules mouseModule
+1001 23:26:05496 :: importing from sys.modules uiScriptLocale
+1001 23:26:05497 :: importing from sys.modules uiMoveChannel
+1001 23:26:05498 :: importing from pack uiWonExchange
+1001 23:26:05501 :: importing from sys.modules ui
+1001 23:26:05501 :: importing from sys.modules localeInfo
+1001 23:26:05501 :: importing from sys.modules uiCommon
+1001 23:26:05502 :: importing from sys.modules uiScriptLocale
+1001 23:26:05502 :: importing from lib app
+1001 23:26:05504 :: importing from lib net
+1001 23:26:05504 :: importing from lib _weakref
+1001 23:26:05505 :: importing from lib net
+1001 23:26:05506 :: importing from sys.modules uiTaskBar
+1001 23:26:05507 :: importing from sys.modules uiInventory
+1001 23:26:05507 :: importing from sys.modules constInfo
+1001 23:26:05636 :: SYSERR:           WA_9+1(#21120) cannot find icon file. setting to default.
+1001 23:26:05637 :: SYSERR:           WA_9+2(#21121) cannot find icon file. setting to default.
+1001 23:26:05637 :: SYSERR:           WA_9+3(#21122) cannot find icon file. setting to default.
+1001 23:26:05637 :: SYSERR:           WA_9+4(#21123) cannot find icon file. setting to default.
+1001 23:26:05638 :: SYSERR:           WA_9+5(#21124) cannot find icon file. setting to default.
+1001 23:26:05638 :: SYSERR:           WA_9+6(#21125) cannot find icon file. setting to default.
+1001 23:26:05638 :: SYSERR:           WA_9+7(#21126) cannot find icon file. setting to default.
+1001 23:26:05639 :: SYSERR:           WA_9+8(#21127) cannot find icon file. setting to default.
+1001 23:26:05639 :: SYSERR:           WA_9+9(#21128) cannot find icon file. setting to default.
+1001 23:26:05640 :: SYSERR:           생명부(#22040) cannot find icon file. setting to default.
+1001 23:26:05641 :: SYSERR:           환생부(#22050) cannot find icon file. setting to default.
+1001 23:26:05642 :: SYSERR:           가리비(#29001) cannot find icon file. setting to default.
+1001 23:26:05642 :: SYSERR:         청가리비(#29002) cannot find icon file. setting to default.
+1001 23:26:05642 :: SYSERR:         황가리비(#29003) cannot find icon file. setting to default.
+1001 23:26:05642 :: SYSERR:         홍가리비(#29004) cannot find icon file. setting to default.
+1001 23:26:05643 :: SYSERR:         녹가리비(#29005) cannot find icon file. setting to default.
+1001 23:26:05643 :: SYSERR:           황주석(#29006) cannot find icon file. setting to default.
+1001 23:26:05643 :: SYSERR:           청주석(#29007) cannot find icon file. setting to default.
+1001 23:26:05643 :: SYSERR:           청신수(#29008) cannot find icon file. setting to default.
+1001 23:26:05644 :: SYSERR:           황신수(#29009) cannot find icon file. setting to default.
+1001 23:26:05644 :: SYSERR:           홍신수(#29010) cannot find icon file. setting to default.
+1001 23:26:05644 :: SYSERR:           녹신수(#29011) cannot find icon file. setting to default.
+1001 23:26:05644 :: SYSERR:         연청신수(#29012) cannot find icon file. setting to default.
+1001 23:26:05644 :: SYSERR:         연황신수(#29013) cannot find icon file. setting to default.
+1001 23:26:05645 :: SYSERR:         연홍신수(#29014) cannot find icon file. setting to default.
+1001 23:26:05647 :: SYSERR:         연녹신수(#29015) cannot find icon file. setting to default.
+1001 23:26:05650 :: SYSERR:       승마수련서(#50062) cannot find icon file. setting to default.
+1001 23:26:05651 :: SYSERR:         석창포액(#50805) cannot find icon file. setting to default.
+1001 23:26:05651 :: SYSERR:       영지버섯액(#50806) cannot find icon file. setting to default.
+1001 23:26:05651 :: SYSERR:         만병초액(#50807) cannot find icon file. setting to default.
+1001 23:26:05652 :: SYSERR:       산뽕나무액(#50808) cannot find icon file. setting to default.
+1001 23:26:05652 :: SYSERR:         민들레액(#50809) cannot find icon file. setting to default.
+1001 23:26:05652 :: SYSERR:         홍화씨액(#50810) cannot find icon file. setting to default.
+1001 23:26:05652 :: SYSERR:           대추액(#50811) cannot find icon file. setting to default.
+1001 23:26:05652 :: SYSERR:     삼지구엽초액(#50812) cannot find icon file. setting to default.
+1001 23:26:05652 :: SYSERR:           빈약병(#50901) cannot find icon file. setting to default.
+1001 23:26:05654 :: SYSERR:    활심액 제조법(#50905) cannot find icon file. setting to default.
+1001 23:26:05654 :: SYSERR:    피독수 제조법(#50906) cannot find icon file. setting to default.
+1001 23:26:05654 :: SYSERR:    보환수 제조법(#50907) cannot find icon file. setting to default.
+1001 23:26:05654 :: SYSERR:    영보수 제조법(#50908) cannot find icon file. setting to default.
+1001 23:26:05655 :: SYSERR:    진피독 제조법(#50909) cannot find icon file. setting to default.
+1001 23:26:05655 :: SYSERR:    활심액 제조법(#50910) cannot find icon file. setting to default.
+1001 23:26:05657 :: SYSERR:             불경(#70103) cannot find icon file. setting to default.
+1001 23:26:05657 :: SYSERR:      동료와 회포(#71047) cannot find icon file. setting to default.
+1001 23:26:05658 :: SYSERR:     전광판보따리(#71091) cannot find icon file. setting to default.
+1001 23:26:05659 :: SYSERR:         돈주머니(#80001) cannot find icon file. setting to default.
+1001 23:26:05659 :: SYSERR:             백지(#80002) cannot find icon file. setting to default.
+1001 23:26:05788 :: CPythonNonPlayer::LoadNonPlayerData: locale/tr/mob_proto, sizeof(TMobTable)=255
+1001 23:26:05806 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:158 Line:56]
+1001 23:26:05807 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:159 Line:57]
+1001 23:26:05807 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:160 Line:58]
+1001 23:26:05808 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:161 Line:59]
+1001 23:26:05808 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:162 Line:60]
+1001 23:26:05808 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:256 Line:61]
+1001 23:26:05809 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:257 Line:62]
+1001 23:26:05809 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:258 Line:63]
+1001 23:26:05809 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:259 Line:64]
+1001 23:26:05809 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:260 Line:65]
+1001 23:26:05809 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:261 Line:66]
+1001 23:26:05809 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:262 Line:67]
+1001 23:26:05810 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:263 Line:105]
+1001 23:26:05811 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:264 Line:106]
+1001 23:26:05811 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:265 Line:107]
+1001 23:26:05811 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:266 Line:108]
+1001 23:26:05812 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:267 Line:110]
+1001 23:26:05812 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:268 Line:111]
+1001 23:26:05812 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:269 Line:112]
+1001 23:26:05812 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:270 Line:113]
+1001 23:26:05813 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:271 Line:116]
+1001 23:26:05813 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:272 Line:117]
+1001 23:26:05813 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:273 Line:118]
+1001 23:26:05813 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:274 Line:119]
+1001 23:26:05814 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:275 Line:120]
+1001 23:26:05814 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:276 Line:121]
+1001 23:26:05814 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:277 Line:122]
+1001 23:26:05814 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:278 Line:123]
+1001 23:26:05815 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:279 Line:124]
+1001 23:26:05815 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:280 Line:134]
+1001 23:26:05815 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:281 Line:135]
+1001 23:26:05816 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:282 Line:136]
+1001 23:26:05817 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:283 Line:137]
+1001 23:26:05817 :: CPythonSkill::RegisterSkillTable(SkillTable.txt) - NOT EXIST SkillDesc [Vnum:284 Line:138]
+1001 23:26:05846 :: PointWindow: PhaseCurtain
+1001 23:26:05980 :: ---------------------------------------------------------------------------- CLOSE LOGIN WINDOW 1001 23:26:05980 :: 
+1001 23:26:05981 :: importing from sys.modules exception
+1001 23:26:05982 :: importing from lib exceptions
+1001 23:26:05983 :: importing from lib os
+1001 23:26:05983 :: importing from lib errno
+1001 23:26:05984 :: ===== Load Script File : locale/common/ui/selectcharacterwindow.py1001 23:26:05984 :: 
+1001 23:26:05984 :: importing from lib sys
+1001 23:26:05985 :: importing from sys.modules utils
+1001 23:26:05986 :: importing from lib chr
+1001 23:26:05986 :: importing from lib player
+1001 23:26:05987 :: importing from lib app
+1001 23:26:05989 :: importing from lib sys
+1001 23:26:05990 :: importing from lib copy
+1001 23:26:05991 :: importing from sys.modules uiScriptLocale
+1001 23:26:05992 :: importing from sys.modules localeInfo
+1001 23:26:05992 :: importing from lib sys
+1001 23:26:05993 :: importing from lib item
+1001 23:26:05994 :: importing from lib app
+1001 23:26:05994 :: importing from lib player
+1001 23:26:05996 :: importing from sys.modules utils
+1001 23:26:05996 :: importing from lib types
+1001 23:26:06000 :: importing from sys.modules uiScriptLocale
+1001 23:26:06001 :: importing from lib app
+1001 23:26:06045 :: importing from sys.modules exception
+1001 23:26:06046 :: importing from lib exceptions
+1001 23:26:06046 :: importing from lib os
+1001 23:26:06047 :: importing from lib errno
+1001 23:26:06047 :: ===== Load Script File : uiscript/questiondialog.py1001 23:26:06047 :: 
+1001 23:26:06048 :: importing from lib sys
+1001 23:26:06049 :: importing from sys.modules utils
+1001 23:26:06049 :: importing from lib chr
+1001 23:26:06050 :: importing from lib player
+1001 23:26:06051 :: importing from lib app
+1001 23:26:06051 :: importing from lib sys
+1001 23:26:06052 :: importing from lib copy
+1001 23:26:06052 :: importing from sys.modules uiScriptLocale
+1001 23:26:06055 :: importing from sys.modules localeInfo
+1001 23:26:06056 :: importing from lib sys
+1001 23:26:06057 :: importing from lib item
+1001 23:26:06057 :: importing from lib app
+1001 23:26:06058 :: importing from lib player
+1001 23:26:06059 :: importing from sys.modules utils
+1001 23:26:06060 :: importing from lib types
+1001 23:26:06061 :: importing from sys.modules uiScriptLocale
+1001 23:26:06062 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/dust/dust.mss]
+1001 23:26:06065 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/dust/running_dust.mss]
+1001 23:26:06070 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_red.mss]
+1001 23:26:06072 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_blue.mss]
+1001 23:26:06074 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_green.mss]
+1001 23:26:06075 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/drugup_purple.mss]
+1001 23:26:06077 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/autodrugup_red.mss]
+1001 23:26:06078 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/recuperation/autodrugup_blue.mss]
+1001 23:26:06082 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item1.mss]
+1001 23:26:06090 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item2.mss]
+1001 23:26:06092 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item3.mss]
+1001 23:26:06097 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item4.mss]
+1001 23:26:06101 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item6.mss]
+1001 23:26:06105 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/buff/buff_item7.mss]
+1001 23:26:06109 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/gwantong.mss]
+1001 23:26:06134 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/click/click_select.mss]
+1001 23:26:06136 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/click/click_glow_select.mss]
+1001 23:26:06138 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/stun/stun.mss]
+1001 23:26:06147 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/etc/click/click.mss]
+1001 23:26:06149 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/target.mss]
+1001 23:26:06150 :: SYSERR: CResourceManager::GetResourcePointer: File not exist d:/ymir work/effect/affect/damagevalue/0.jpg
+1001 23:26:06150 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/nontarget.mss]
+1001 23:26:06151 :: SYSERR: CANNOT_FIND_PACK_FILE [d:/ymir work/effect/affect/damagevalue/0.jpg]
+1001 23:26:06151 :: CResource::Load file not exist d:\ymir work\effect\affect\damagevalue\0.jpg
+1001 23:26:06152 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/damage.mss]
+1001 23:26:06153 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/damage_1.mss]
+1001 23:26:06154 :: SYSERR: CResourceManager::GetResourcePointer: File not exist d:/ymir work/effect/affect/damagevalue/poison0.jpg
+1001 23:26:06155 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/poison.mss]
+1001 23:26:06155 :: SYSERR: CANNOT_FIND_PACK_FILE [d:/ymir work/effect/affect/damagevalue/poison0.jpg]
+1001 23:26:06156 :: CResource::Load file not exist d:\ymir work\effect\affect\damagevalue\poison0.jpg
+1001 23:26:06157 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/miss.mss]
+1001 23:26:06158 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/affect/damagevalue/target_miss.mss]
+1001 23:26:06172 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/percent_damage1.mss]
+1001 23:26:06176 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/percent_damage2.mss]
+1001 23:26:06179 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/effect/hit/percent_damage3.mss]
+1001 23:26:06179 :: CRaceManager::CreateRace(dwRaceIndex=0)
+1001 23:26:06212 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/intro/wait.mss]
+1001 23:26:06217 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/warrior/intro/not_selected.mss]
+1001 23:26:06219 :: CRaceManager::CreateRace(dwRaceIndex=4)
+1001 23:26:06252 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/intro/wait.mss]
+1001 23:26:06272 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/warrior/intro/not_selected.mss]
+1001 23:26:06276 :: CRaceManager::CreateRace(dwRaceIndex=1)
+1001 23:26:06309 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/intro/wait.mss]
+1001 23:26:06315 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/assassin/intro/not_selected.mss]
+1001 23:26:06317 :: CRaceManager::CreateRace(dwRaceIndex=5)
+1001 23:26:06348 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/intro/wait.mss]
+1001 23:26:06356 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/assassin/intro/not_selected.mss]
+1001 23:26:06360 :: CRaceManager::CreateRace(dwRaceIndex=2)
+1001 23:26:06391 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/intro/wait.mss]
+1001 23:26:06398 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/sura/intro/not_selected.mss]
+1001 23:26:06402 :: CRaceManager::CreateRace(dwRaceIndex=6)
+1001 23:26:06436 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/intro/wait.mss]
+1001 23:26:06445 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/sura/intro/not_selected.mss]
+1001 23:26:06448 :: CRaceManager::CreateRace(dwRaceIndex=3)
+1001 23:26:06482 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/intro/wait.mss]
+1001 23:26:06489 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc/shaman/intro/not_selected.mss]
+1001 23:26:06492 :: CRaceManager::CreateRace(dwRaceIndex=7)
+1001 23:26:06524 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/intro/wait.mss]
+1001 23:26:06530 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc2/shaman/intro/not_selected.mss]
+1001 23:26:06534 :: CRaceManager::CreateRace(dwRaceIndex=8)
+1001 23:26:06560 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc3/wolfman/intro/wait.mss]
+1001 23:26:06568 :: SYSERR: CANNOT_FIND_PACK_FILE [sound/pc3/wolfman/intro/not_selected.mss]
+1001 23:26:06573 :: SelectCharacterInstance: no vid by 0
+1001 23:26:06573 :: SelectCharacterInstance: no vid by 0
+1001 23:26:06574 :: ---------------------------------------------------------------------------- DELETE LOGIN WINDOW1001 23:26:06574 :: 
+1001 23:26:06741 :: PointWindow: BackGround
+1001 23:26:07004 :: PointWindow: character_board
+1001 23:26:07135 :: PointWindow: create_button
+1001 23:26:07334 :: importing from sys.modules introEmpire
+1001 23:26:07335 :: NEW EMPIRE WINDOW  ----------------------------------------------------------------------------1001 23:26:07336 :: 
+1001 23:26:07336 :: PointWindow: PhaseCurtain
+1001 23:26:07484 :: DeleteCharacterInstance: no vid by 0
+1001 23:26:07485 :: DeleteCharacterInstance: no vid by 1
+1001 23:26:07485 :: DeleteCharacterInstance: no vid by 2
+1001 23:26:07485 :: DeleteCharacterInstance: no vid by 3
+1001 23:26:07486 :: DeleteCharacterInstance: no vid by 4
+1001 23:26:07486 :: OPEN EMPIRE WINDOW ----------------------------------------------------------------------------1001 23:26:07486 :: 
+1001 23:26:07486 :: importing from sys.modules exception
+1001 23:26:07487 :: importing from lib exceptions
+1001 23:26:07488 :: importing from lib os
+1001 23:26:07488 :: importing from lib errno
+1001 23:26:07489 :: ===== Load Script File : locale/common/ui/SelectEmpireWindow.py1001 23:26:07489 :: 
+1001 23:26:07489 :: importing from lib sys
+1001 23:26:07490 :: importing from sys.modules utils
+1001 23:26:07491 :: importing from lib chr
+1001 23:26:07491 :: importing from lib player
+1001 23:26:07494 :: importing from lib app
+1001 23:26:07495 :: importing from lib sys
+1001 23:26:07496 :: importing from lib copy
+1001 23:26:07497 :: importing from sys.modules uiScriptLocale
+1001 23:26:07498 :: importing from sys.modules localeInfo
+1001 23:26:07499 :: importing from lib sys
+1001 23:26:07500 :: importing from lib item
+1001 23:26:07501 :: importing from lib app
+1001 23:26:07502 :: importing from lib player
+1001 23:26:07503 :: importing from sys.modules utils
+1001 23:26:07504 :: importing from lib types
+1001 23:26:07506 :: importing from sys.modules uiScriptLocale
+1001 23:26:07507 :: importing from sys.modules localeInfo
+1001 23:26:07665 :: PointWindow: BackGround
+1001 23:26:08687 :: PointWindow: Atlas
+1001 23:26:08736 :: PointWindow: !!debug
+1001 23:26:09298 :: PointWindow: Atlas
+1001 23:26:09330 :: PointWindow: !!debug
+1001 23:26:09644 :: PointWindow: Atlas
+1001 23:26:09710 :: PointWindow: !!debug
+1001 23:26:10039 :: PointWindow: Atlas
+1001 23:26:10072 :: PointWindow: !!debug
+1001 23:26:10370 :: PointWindow: Atlas
+1001 23:26:10420 :: PointWindow: !!debug
+1001 23:26:10683 :: PointWindow: !!debug
+1001 23:26:11030 :: PointWindow: Atlas
+1001 23:26:11064 :: PointWindow: !!debug
+1001 23:26:11326 :: PointWindow: Atlas
+1001 23:26:11360 :: PointWindow: !!debug
+1001 23:26:12037 :: PointWindow: Atlas
+1001 23:26:12054 :: PointWindow: BackGround
+1001 23:26:12120 :: PointWindow: text_board
+1001 23:26:12549 :: PointWindow: next_text_button
+1001 23:26:12580 :: PointWindow: text_board
+1001 23:26:12598 :: PointWindow: empire_board
+1001 23:26:12681 :: PointWindow: BackGround
+1001 23:26:12697 :: PointWindow: exit_button
+1001 23:26:14346 :: 
+1001 23:26:14347 :: ## Network - OffLine Phase ##
+1001 23:26:14347 :: 
+1001 23:26:14347 :: importing from sys.modules introLogin
+1001 23:26:14348 :: NEW LOGIN WINDOW ----------------------------------------------------------------------------1001 23:26:14348 :: 
+1001 23:26:14349 :: PointWindow: PhaseCurtain
+1001 23:26:14496 :: ---------------------------------------------------------------------------- CLOSE EMPIRE WINDOW1001 23:26:14496 :: 
+1001 23:26:14496 :: LOGIN WINDOW OPEN ----------------------------------------------------------------------------1001 23:26:14496 :: 
+1001 23:26:14497 :: importing from lib dbg
+1001 23:26:14497 :: importing from sys.modules exception
+1001 23:26:14498 :: importing from lib exceptions
+1001 23:26:14500 :: importing from lib os
+1001 23:26:14500 :: importing from lib errno
+1001 23:26:14502 :: ===== Load Script File : locale/common/ui/LoginWindow.py1001 23:26:14502 :: 
+1001 23:26:14502 :: importing from lib sys
+1001 23:26:14504 :: importing from sys.modules utils
+1001 23:26:14505 :: importing from lib chr
+1001 23:26:14507 :: importing from lib player
+1001 23:26:14508 :: importing from lib app
+1001 23:26:14509 :: importing from lib sys
+1001 23:26:14510 :: importing from lib copy
+1001 23:26:14511 :: importing from sys.modules uiScriptLocale
+1001 23:26:14512 :: importing from sys.modules localeInfo
+1001 23:26:14513 :: importing from lib sys
+1001 23:26:14516 :: importing from lib item
+1001 23:26:14517 :: importing from lib app
+1001 23:26:14520 :: importing from lib player
+1001 23:26:14521 :: importing from sys.modules utils
+1001 23:26:14522 :: importing from lib types
+1001 23:26:14526 :: importing from sys.modules uiScriptLocale
+1001 23:26:14532 :: importing from lib _winreg
+1001 23:26:14536 :: importing from lib _winreg
+1001 23:26:14538 :: importing from lib _winreg
+1001 23:26:14541 :: importing from lib _winreg
+1001 23:26:14542 :: importing from lib _winreg
+1001 23:26:14542 :: importing from lib _winreg
+1001 23:26:14545 :: importing from lib _winreg
+1001 23:26:14546 :: importing from lib _winreg
+1001 23:26:14546 :: importing from lib _winreg
+1001 23:26:14548 :: importing from lib _winreg
+1001 23:26:14555 :: importing from lib xml.dom.minidom
+1001 23:26:14556 :: ---------------------------------------------------------------------------- DELETE EMPIRE WINDOW1001 23:26:14556 :: 
+1001 23:27:16640 :: PointWindow: bg2
+1001 23:27:08450 :: PointWindow: bg2
+1001 23:27:08483 :: PointWindow: !!debug
+1001 23:27:08746 :: PointWindow: bg2
+1001 23:28:18301 :: PointWindow: VirtualKeyboard
+1001 23:28:18334 :: PointWindow: key_35
+1001 23:28:18367 :: PointWindow: key_34
+1001 23:28:18401 :: PointWindow: key_33
+1001 23:28:18482 :: PointWindow: key_45
+1001 23:28:18499 :: PointWindow: key_46
+1001 23:28:18532 :: PointWindow: VirtualKeyboard
+1001 23:28:18566 :: PointWindow: bg2
+1001 23:28:18696 :: PointWindow: VirtualKeyboard
+1001 23:28:18779 :: PointWindow: key_46
+1001 23:28:18812 :: PointWindow: key_45
+1001 23:28:18828 :: PointWindow: key_44
+1001 23:28:18846 :: PointWindow: key_32
+1001 23:28:18863 :: PointWindow: key_31
+1001 23:28:18879 :: PointWindow: key_29
+1001 23:28:18895 :: PointWindow: key_17
+1001 23:28:18911 :: PointWindow: key_3
+1001 23:28:18928 :: PointWindow: key_2
+1001 23:28:18943 :: PointWindow: VirtualKeyboard
+1001 23:28:18960 :: PointWindow: bg2
+1001 23:28:19736 :: PointWindow: key_6
+1001 23:28:19752 :: PointWindow: key_8
+1001 23:28:19769 :: PointWindow: key_22
+1001 23:28:19785 :: PointWindow: key_24
+1001 23:28:19802 :: PointWindow: VirtualKeyboard
+1001 23:28:19819 :: PointWindow: bg2
+1001 23:28:21717 :: PointWindow: VirtualKeyboard
+1001 23:28:21734 :: PointWindow: key_backspace
+1001 23:28:21749 :: PointWindow: VirtualKeyboard
+1001 23:28:22872 :: PointWindow: key_backspace
+1001 23:28:22905 :: PointWindow: VirtualKeyboard
+1001 23:28:22922 :: PointWindow: bg2
+1001 23:28:22954 :: PointWindow: !!debug
+1001 23:28:22987 :: PointWindow: !!debug
+1001 23:28:23910 :: PointWindow: !!debug
+1001 23:28:26237 :: PointWindow: !!debug
+1001 23:28:26649 :: PointWindow: !!debug
+1001 23:28:26666 :: PointWindow: bg2
+1001 23:28:33646 :: PointWindow: bg2
+1001 23:28:09419 :: ---------------------------------------------------------------------------- CLOSE LOGIN WINDOW 1001 23:28:09419 :: 
+1001 23:28:09419 :: ---------------------------------------------------------------------------- DELETE LOGIN WINDOW1001 23:28:09419 :: 
+1001 23:28:09421 :: ---------------------------------------------------------------------------- DELETE POPUP DIALOG 1001 23:28:09421 :: 
+1001 23:28:09421 :: ---------------------------------------------------------------------------- DELETE CURTAIN1001 23:28:09421 :: 
+1001 23:28:09421 :: ---------------------------------------------------------------------------- DELETE MAIN STREAM 1001 23:28:09422 :: 
+1001 23:28:09437 :: SYSERR: granny_shared_vbs:
+1001 23:28:09437 :: SYSERR: 	0: 40
+1001 23:28:09438 :: SYSERR: 	1: 20
+1001 23:28:09438 :: SYSERR: 	2: 20
+1001 23:28:09438 :: SYSERR: 	3: 40
+1001 23:28:09438 :: SYSERR: 	4: 0
+1001 23:28:09438 :: SYSERR: 	5: 20
+1001 23:28:09438 :: SYSERR: 	6: 0
+1001 23:28:09438 :: SYSERR: 	7: 0
+1001 23:28:09438 :: SYSERR: 	8: 0
+1001 23:28:09439 :: CResourceManager::__DestroyDeletingResourceMap 148
+1001 23:28:09464 :: CResourceManager::__DestroyResourceMap 851
+1001 23:28:09515 :: CResourceManager::__DestroyResourceMap 0
+1001 23:28:09516 :: CPythonBackground Clear
+1001 23:28:09518 :: PythonIME Clear
+1001 23:28:09518 :: PythonNetworkMainStream Clear
+1001 23:28:09519 :: Python Graphic Clear

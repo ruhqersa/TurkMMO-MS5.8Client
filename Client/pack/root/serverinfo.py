@@ -5,7 +5,7 @@ app.ServerName = None
 
 SRV1 = {
 	"name":TextColor("ServerName", "ffd500"), #GOLD
-	"host":"192.168.1.19",
+	"host":"192.168.1.105",
 	"auth1":30001,
 	"ch1":30003,
 	"ch2":30007, #if you only have 1 ch and see it online, it's ch99 having the same port
